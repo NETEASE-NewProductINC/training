@@ -6,6 +6,6 @@
 ### 教程
 [W3Help 知识库的 13 篇文章](http://www.w3help.org/zh-cn/kb/)
 
-## 学习周期
+### 学习周期
 一个月
 
